@@ -10,7 +10,7 @@ namespace Zapper
                 throw new ArgumentOutOfRangeException("Settings string length must be 8");
             }
 
-            if (value < 0 || value > 7)
+            if (value < 0 || value > 8)
             {
                 throw new ArgumentOutOfRangeException("Setting value must be between 1 and 8");
             }
