@@ -10,4 +10,5 @@ Given more time:
 - I would have added a more reliable way to get the root folder of the solution for File I/O.
 - More cases for error handling
 - Unit tests
-- Saved Settings outfile to a Customer / User object 
+- Saved Settings outfile to a Customer / User object
+- If space of the output file was of absolute importance I would write the file output to binary file or something similar
