@@ -13,11 +13,9 @@ public class Program
         FileProcessor processor = new FileProcessor();
         SettingsChecker settingsChecker = new SettingsChecker();
 
-
         List<string[]> input = processor.ReadFile(inputFilePath);
 
         List<string> output = new List<string>();
-
 
         foreach (var setting in input)
         {
