@@ -2,6 +2,8 @@
 
 Some Notes
 
+SQL Script for DB design included
+
 Run instructions:
 - Run Main Method in Program.cs
 - Input and Output files are txt and sit in the project root folder /Files
